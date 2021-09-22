@@ -9,7 +9,7 @@
             "value": "adminfabmedical"
         },
         "VirtualMachineAdminPublicKeyLinux": {
-            "value": "ssh-rsa AAAAB3N(...)vPiybQV admin@fabmedical"
+            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC5U55GLD3QekJXfmUytwB0qm8IvSIgNuscP93vGQ306xbdYu/YEIbFaiLXm8pXP3cZBQWyo1DsMp6QRJs4b7LATytlBSvSKSafJvkGK6VJRb5/bOA9N+lrr67k82BJI+8bzrhUbQA+7FRfGEVa5+BID3Dfm3njRatrGYjWeNge2MpuLG00KZgVzNU6bvU+xS+oa8YtbIANT5UCkAREs9fIFi257AqrF8ij5xQf355chtFDkPmkLTXohozTMszAh279EzZzKs/3v2vm8VfmNQkD4lml5LBTrx6h1d77CDX4s0JpPNRJo4nskcAv1IeRT5zzK4Ng7iG3YEemBxbjNiW6vi2Jxw6YfKEQ5Nrd7wZvAIA/5Uw9KM3P/HBC25ClutVfA8G5JOqA+ReAxYV0t6Oz6zgSEzStGtbOUvTOrY9CxGRzQrhW/0TRHTDqLhh2TbKNTPGvwKwuTdwf2+mmiX+QU/EqZiLWvBo+eOyRiwpeGyJYFdxmvSD4jdAgcD9qzUk= generated-by-azure"
         },
         "CosmosLocation": {
             "value": "location"
